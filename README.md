@@ -36,7 +36,7 @@
 # Links
 
 * [Visual Studio Code (code editor)](https://code.visualstudio.com/)
-* [StackOverflow (first result when googling error messages](https://stackoverflow.com/)
+* [StackOverflow (first result when googling error messages)](https://stackoverflow.com/)
 * [w3schools (Bible for beginners, good as a reference and code examples)](https://www.w3schools.com/)
 * [Udemy (search for courses)](https://www.udemy.com/)
 * [FreeCourseSite (download Udemy courses for free - piracy)](https://freecoursesite.com/)
