@@ -31,6 +31,7 @@
 * [Missing Semester (university-like, basics) - EN](https://www.youtube.com/channel/UCuXy5tCgEninup9cGplbiFw)
 * [Steve Griffith (useful for web-dev and mobile-dev) - EN](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ) 
 * [freeCodeCamp (lots of useful 1, 5, 10, 15 hour bootcamps) - EN](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [The Coding Train (useful physics-related programming ideas) - EN](https://www.youtube.com/user/shiffman)
 
 
 # Links
