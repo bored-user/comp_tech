@@ -1,1 +1,5 @@
-// ih ala neguin tentando colar a resposta
+window.addEventListener('load', afterLoading)
+
+function afterLoading() {
+    console.log('it\'s all working!')
+}
